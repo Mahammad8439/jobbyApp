@@ -1,0 +1,77 @@
+.company-logo {
+  width: 50px;
+  margin-right: 20px;
+}
+.job-item {
+  background-color: rgb(39, 38, 37);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+}
+.list-item {
+  margin-bottom: 10px;
+  width: 80%;
+}
+.company-name-and-logo {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+.title-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+}
+.title {
+  font-size: 15px;
+  text-decoration: none;
+  margin-bottom: 0;
+}
+.link {
+  text-decoration: none;
+}
+.star {
+  color: rgb(157, 118, 48);
+  margin-right: 5px;
+}
+.l-div {
+  display: flex;
+  align-items: center;
+}
+.location-container {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  margin-right: 10px;
+  font-size: 14px;
+}
+.icon {
+  margin-right: 5px;
+}
+.location-salary-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.package {
+  font-size: 14px;
+  color: #fff;
+}
+.hr {
+  border: #fff 1px solid;
+  width: 100%;
+}
+.description-heading {
+  font-size: 16px;
+  color: #fff;
+}
+.description-text {
+  font-size: 12px;
+  color: #fff;
+}

@@ -1,0 +1,35 @@
+.nav-bar {
+  display: flex;
+  align-items: center;
+  background-color: rgb(39, 38, 37);
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.links {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  color: #fff;
+  width: 160px;
+  justify-content: space-between;
+}
+.link-item {
+  font-size: 18px;
+  color: #fff;
+  text-decoration: none;
+}
+.logout-btn {
+  background-color: rgb(94, 103, 235);
+  color: #fff;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  margin-left: auto;
+}
+.link {
+  padding-left: 0;
+  list-style-type: none;
+}
